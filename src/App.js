@@ -93,7 +93,7 @@ function Input({ forList }) {
     }
     console.log(newObj);
     forList(newObj) // function to send data to list
-    setImage('')
+    setImage('https://img.freepik.com/premium-psd/shopping-cart-3d-render-realistic-transparent_363450-2295.jpg')
     setName('')
     setPrice('')
   }
